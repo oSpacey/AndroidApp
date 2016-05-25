@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_add.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_add.png",
+        "source": "J:\\Android_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "J:\\Android_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\add_btn.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\mipmap-hdpi\\add_btn.png"
+    },
+    {
+        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\add_btn.png",
+        "source": "J:\\Android_App\\app\\src\\main\\res\\mipmap-hdpi\\add_btn.png"
+    }
+]
