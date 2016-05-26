@@ -99,7 +99,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/tabLayout"
         android:layout_centerHorizontal="true"
-        tools:context=".MainActivity" />
+        tools:context=".TABS.MainActivity" />
 
 
 </RelativeLayout>

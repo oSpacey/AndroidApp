@@ -1,0 +1,4 @@
+CHANGED,J:\AndroidApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,J:\AndroidApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\id2013_03\android_app\R$id$override.class
+CHANGED,J:\AndroidApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\id2013_03\android_app\TABS\Exclusivity$override.class
+CHANGED,J:\AndroidApp\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\id2013_03\android_app\TABS\Exclusivity$CustomAdapter$override.class

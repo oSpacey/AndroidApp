@@ -1,83 +1,31 @@
 [
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_transmission.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_transmission.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chassis_title.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\chassis_title.png"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_lubricant.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_lubricant.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_rrp.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_rrp.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\oval.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_performance_data.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_performance_data.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chassis_text.png",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\chassis_text.png"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_logo.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\main_logo.jpg"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\android.png"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_png.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\bg_png.png"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_lubricant.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_lubricant.jpg"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\oval.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chassis_text.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\chassis_text.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_image.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_image.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_add.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\spec_add.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_big.jpg",
@@ -88,16 +36,24 @@
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_car.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\test_car.jpg"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_logo.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\main_logo.jpg"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_standard_equipment.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_standard_equipment.jpg"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\close.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\android.png",
@@ -112,96 +68,32 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_exhaust.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_under_side_menu.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_under_side_menu.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_spec_tech.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_spec_tech.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_side_menu.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_side_menu.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_car.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\test_car.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_small.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\bg_small.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_big.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\bg_big.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_title.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_title.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_spec_tech.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_spec_tech.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_transmission.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_transmission.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\close.png"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_radio_material.xml"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chassis_title.png",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\chassis_title.png"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_lubricant.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_lubricant.jpg"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exclusivity_factory_handover.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\exclusivity_factory_handover.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_further_info.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_further_info.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_side_menu.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_side_menu.jpg"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_side_menu.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_side_menu.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\test_car.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\test_car.jpg"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_main.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\spec_main.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\close.png"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_rrp.jpg",
@@ -212,12 +104,20 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_engine.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_spec_tech.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_spec_tech.jpg"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exclusivity_f1.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\exclusivity_f1.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -228,92 +128,44 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_performance_data.jpg"
     },
     {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_key_options.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_key_options.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down_spec.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\arrow_down_spec.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_engine.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_engine.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_add.png",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\spec_add.png"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_pressed.xml",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\oval_pressed.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_key_options.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_key_options.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_jpg.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\bg_jpg.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_further_info.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_further_info.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_exhaust.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_exhaust.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down_spec.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\arrow_down_spec.jpg"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_logo.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\main_logo.jpg"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_standard_equipment.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\tech_standard_equipment.jpg"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_key_options.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_key_options.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_image.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_image.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval.xml",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\oval.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_down_spec.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\arrow_down_spec.jpg"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_add.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\spec_add.png"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_pressed.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\oval_pressed.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -324,10 +176,6 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_title.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chassis_text.png",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\chassis_text.png"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -336,24 +184,28 @@
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_png.png",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\bg_png.png"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_add_06.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\spec_add_06.jpg"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exclusivity_main.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\exclusivity_main.png"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_add_06.jpg",
@@ -364,72 +216,16 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\powertrain_lubrication.jpg"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exclusivity_mso.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\exclusivity_mso.png"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exclusivity_bottom.png",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\exclusivity_bottom.png"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_holder_spec.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\place_holder_spec.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\powertrain_lubrication.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\powertrain_lubrication.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_main.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\spec_main.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_small.jpg",
-        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\bg_small.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\oval_pressed.xml",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\oval_pressed.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spec_back_to_top.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\spec_back_to_top.jpg"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_holder_spec.jpg",
-        "source": "J:\\Android_App\\app\\src\\main\\res\\drawable\\place_holder_spec.jpg"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
@@ -440,10 +236,6 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\spec_back_to_top.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tech_under_side_menu.jpg",
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\tech_under_side_menu.jpg"
     },
@@ -452,7 +244,7 @@
         "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\bg_jpg.jpg"
     },
     {
-        "merged": "J:\\Android_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "J:\\Android_App\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_small.jpg",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\drawable\\bg_small.jpg"
     }
 ]
