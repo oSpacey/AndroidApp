@@ -8,6 +8,14 @@
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mclaren_f1.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\layout\\mclaren_f1.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exclusivitymain.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\layout\\exclusivitymain.xml"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -58,6 +66,10 @@
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\factory_handover.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\layout\\factory_handover.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spec_page_options_card.xml",
@@ -128,8 +140,16 @@
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grand_reveal.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\layout\\grand_reveal.xml"
+    },
+    {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "J:\\AndroidApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mso.xml",
+        "source": "J:\\AndroidApp\\app\\src\\main\\res\\layout\\mso.xml"
     },
     {
         "merged": "J:\\AndroidApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spec_page_rrp_card.xml",

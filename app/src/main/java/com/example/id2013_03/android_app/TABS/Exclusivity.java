@@ -4,7 +4,9 @@ import android.content.Context;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -18,15 +20,18 @@ import fr.castorflex.android.verticalviewpager.VerticalViewPager;
  * Created by ID2013-03 on 09/05/2016.
  */
 public class Exclusivity extends Fragment {
-    VerticalViewPager viewPager;
+    CustomViewPager viewPager;
     TabLayout tabLayout;
+
+
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.exclusivity, container, false);
+        setRetainInstance(true);
 
-        viewPager = (VerticalViewPager)rootView.findViewById(R.id.vert_view);
+
+        viewPager = (CustomViewPager)rootView.findViewById(R.id.vert_view);
         viewPager.setAdapter(new CustomAdapter(getActivity().getSupportFragmentManager(), getActivity().getApplicationContext()));
-
         return rootView;
 
     }

@@ -8,6 +8,7 @@ package com.example.id2013_03.android_app.TABS;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v4.app.Fragment;
 import android.support.v4.widget.NestedScrollView;
@@ -103,9 +104,6 @@ public class Specification extends Fragment {
         acceleration_fab = (FloatingActionButton) rootView.findViewById(R.id.acceleration_fab);
         braking_fab = (FloatingActionButton) rootView.findViewById(R.id.braking_fab);
         efficiency_fab = (FloatingActionButton) rootView.findViewById(R.id.efficiency_fab);
-
-
-
 
 /*
      ---------------------------------------------------------------------------------------------------------------------------
