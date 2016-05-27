@@ -49,7 +49,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="1170dp"
             android:layout_marginTop="210dp"
-            android:background="@drawable/oval"
+            android:background="@drawable/exclusivity_oval"
             android:elevation="10dp"
             android:src="@mipmap/add_btn"
 
@@ -62,7 +62,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="1575dp"
             android:layout_marginTop="210dp"
-            android:background="@drawable/oval"
+            android:background="@drawable/exclusivity_oval"
             android:elevation="10dp"
             android:src="@mipmap/add_btn" />
 
@@ -73,7 +73,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="1060dp"
             android:layout_marginTop="370dp"
-            android:background="@drawable/oval"
+            android:background="@drawable/exclusivity_oval"
             android:elevation="10dp"
             android:src="@mipmap/add_btn" />
 
@@ -84,7 +84,7 @@
             android:layout_centerVertical="true"
             android:layout_marginLeft="1500dp"
             android:layout_marginTop="500dp"
-            android:background="@drawable/oval"
+            android:background="@drawable/exclusivity_oval"
             android:elevation="10dp"
             android:src="@mipmap/add_btn" />
 

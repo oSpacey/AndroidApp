@@ -2,26 +2,27 @@ package com.example.id2013_03.android_app.TABS;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.example.id2013_03.android_app.Exclusivity_TABS.CustomViewPager;
+import com.example.id2013_03.android_app.Exclusivity_TABS.ExclusivityMain;
+import com.example.id2013_03.android_app.Exclusivity_TABS.FactoryHandovers;
+import com.example.id2013_03.android_app.Exclusivity_TABS.GrandReveal;
+import com.example.id2013_03.android_app.Exclusivity_TABS.MSO;
+import com.example.id2013_03.android_app.Exclusivity_TABS.MclarenF1;
 import com.example.id2013_03.android_app.R;
-
-import fr.castorflex.android.verticalviewpager.VerticalViewPager;
 
 /**
  * Created by ID2013-03 on 09/05/2016.
  */
 public class Exclusivity extends Fragment {
     CustomViewPager viewPager;
-    TabLayout tabLayout;
+
 
 
 
@@ -32,6 +33,8 @@ public class Exclusivity extends Fragment {
 
         viewPager = (CustomViewPager)rootView.findViewById(R.id.vert_view);
         viewPager.setAdapter(new CustomAdapter(getActivity().getSupportFragmentManager(), getActivity().getApplicationContext()));
+
+
         return rootView;
 
     }

@@ -72,10 +72,10 @@ public class Powertrain extends Activity {
             @Override
             public void onClick(View v) {
                 powerScroll.scrollTo(0, 718);
-                engineBtn.setBackgroundResource(R.drawable.oval_pressed);
-                transmitionBtn.setBackgroundResource(R.drawable.oval);
-                exhaustBtn.setBackgroundResource(R.drawable.oval);
-                lubricationBtn.setBackgroundResource(R.drawable.oval);
+                engineBtn.setBackgroundResource(R.drawable.exclusivity_oval_pressed);
+                transmitionBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                exhaustBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                lubricationBtn.setBackgroundResource(R.drawable.exclusivity_oval);
 
             }
         });
@@ -85,10 +85,10 @@ public class Powertrain extends Activity {
             @Override
             public void onClick(View v) {
                 powerScroll.scrollTo(0, 1431);
-                engineBtn.setBackgroundResource(R.drawable.oval);
-                transmitionBtn.setBackgroundResource(R.drawable.oval_pressed);
-                exhaustBtn.setBackgroundResource(R.drawable.oval);
-                lubricationBtn.setBackgroundResource(R.drawable.oval);
+                engineBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                transmitionBtn.setBackgroundResource(R.drawable.exclusivity_oval_pressed);
+                exhaustBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                lubricationBtn.setBackgroundResource(R.drawable.exclusivity_oval);
 
             }
         });
@@ -97,10 +97,10 @@ public class Powertrain extends Activity {
             @Override
             public void onClick(View v) {
                 powerScroll.scrollTo(0, 2145);
-                engineBtn.setBackgroundResource(R.drawable.oval);
-                transmitionBtn.setBackgroundResource(R.drawable.oval);
-                exhaustBtn.setBackgroundResource(R.drawable.oval_pressed);
-                lubricationBtn.setBackgroundResource(R.drawable.oval);
+                engineBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                transmitionBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                exhaustBtn.setBackgroundResource(R.drawable.exclusivity_oval_pressed);
+                lubricationBtn.setBackgroundResource(R.drawable.exclusivity_oval);
 
             }
         });
@@ -109,10 +109,10 @@ public class Powertrain extends Activity {
             @Override
             public void onClick(View v) {
                 powerScroll.scrollTo(0, 2955);
-                engineBtn.setBackgroundResource(R.drawable.oval);
-                transmitionBtn.setBackgroundResource(R.drawable.oval);
-                exhaustBtn.setBackgroundResource(R.drawable.oval);
-                lubricationBtn.setBackgroundResource(R.drawable.oval_pressed);
+                engineBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                transmitionBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                exhaustBtn.setBackgroundResource(R.drawable.exclusivity_oval);
+                lubricationBtn.setBackgroundResource(R.drawable.exclusivity_oval_pressed);
 
             }
         });

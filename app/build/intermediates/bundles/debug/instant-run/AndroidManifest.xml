@@ -31,6 +31,10 @@
             android:noHistory="true"
             android:theme="@style/chassisWin" />
         <activity
+            android:name="com.example.id2013_03.android_app.EXCLUSIVITY_POPUP_MSO_DEFINED.Mso_Defined_Popup"
+            android:noHistory="true"
+            android:theme="@style/chassisWin" />
+        <activity
             android:name="android.support.v7.widget.TestActivity"
             android:label="RecyclerViewTestActivity" />
     </application>

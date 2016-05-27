@@ -25,6 +25,11 @@
             android:name=".SPEC_POPUP.Brakes"
             android:noHistory="true"
             android:theme="@style/chassisWin"></activity>
+
+        <activity
+            android:name=".EXCLUSIVITY_POPUP_MSO_DEFINED.Mso_Defined_Popup"
+            android:noHistory="true"
+            android:theme="@style/chassisWin"></activity>
     </application>
 
 </manifest>

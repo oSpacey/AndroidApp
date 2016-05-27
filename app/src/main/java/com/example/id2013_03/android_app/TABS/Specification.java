@@ -105,6 +105,8 @@ public class Specification extends Fragment {
         braking_fab = (FloatingActionButton) rootView.findViewById(R.id.braking_fab);
         efficiency_fab = (FloatingActionButton) rootView.findViewById(R.id.efficiency_fab);
 
+
+
 /*
      ---------------------------------------------------------------------------------------------------------------------------
                                 On click listener for the powertrain_fab button
@@ -114,18 +116,14 @@ public class Specification extends Fragment {
                                 the main view.
      ---------------------------------------------------------------------------------------------------------------------------
 */
-
         powertrain_fab.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View arg0) {
-                // Open pop up window
-                // Calls function show pop up window
-                // if (powerPos != null)
-                //showPowerPopup(getActivity(), powerPos);
+            public void onClick(View v) {
                 Intent i = new Intent(getActivity(), Powertrain.class);
                 startActivity(i);
             }
         });
+
 
 /*
      ---------------------------------------------------------------------------------------------------------------------------
